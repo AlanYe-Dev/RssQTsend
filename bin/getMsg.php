@@ -5,6 +5,8 @@
  *
  * Made by Ancgk Studio
  * @ Ski_little <ski@ancgk.com>
+ * Motified by AlanYe-Dev
+ * @ _Wr_
  */
 require_once "common.php";
 class getMsg
